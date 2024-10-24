@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591981996941",
+    "project_id": "covidapp-1177e",
+    "storage_bucket": "covidapp-1177e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591981996941:android:d959a4441bcf545da3abc4",
+        "android_client_info": {
+          "package_name": "com.covidhometest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhLC_RAQOurlTUDKBZ6XVHt-C9iWs2ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591981996941:android:89ed8539f8e42cd3a3abc4",
+        "android_client_info": {
+          "package_name": "com.nnth.covidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhLC_RAQOurlTUDKBZ6XVHt-C9iWs2ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
